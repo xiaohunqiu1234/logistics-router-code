@@ -154,16 +154,6 @@ A: 使用`DynamicRoutePlanner`类，定期调用`update_traffic()`更新路况�
 
 欢迎提交Issue和Pull Request！
 
-## 📄 许可证
-
-MIT License
-
-## 📧 联系方式
-
-- 作者: Logistics AI Team
-- 邮箱: support@logistics-ai.com
-- 文档: https://docs.logistics-ai.com
-
 ---
 
 **⭐ 如果这个项目对您有帮助，请给个Star！**
