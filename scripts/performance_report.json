@@ -1,0 +1,68 @@
+{
+  "timestamp": "2026-01-05T11:24:01.605195",
+  "algorithms": {
+    "最近邻算法": {
+      "algorithm": "最近邻算法",
+      "total_distance": 31.74,
+      "total_time": 1.79,
+      "total_cost": 115.08,
+      "carbon_emission": 4.76,
+      "num_deliveries": 4,
+      "total_demand": 200.0,
+      "capacity_utilization": 100.0,
+      "route_efficiency": 19.04,
+      "avg_distance_per_stop": 7.94,
+      "route": [
+        "point_a",
+        "point_b",
+        "point_c",
+        "point_d"
+      ],
+      "execution_time": 0.0
+    },
+    "遗传算法": {
+      "algorithm": "遗传算法",
+      "total_distance": 31.74,
+      "total_time": 1.79,
+      "total_cost": 115.08,
+      "carbon_emission": 4.76,
+      "num_deliveries": 4,
+      "total_demand": 200.0,
+      "capacity_utilization": 100.0,
+      "route_efficiency": 19.04,
+      "avg_distance_per_stop": 7.94,
+      "route": [
+        "point_a",
+        "point_b",
+        "point_c",
+        "point_d"
+      ],
+      "execution_time": 0.106
+    },
+    "多目标优化": {
+      "algorithm": "多目标优化",
+      "total_distance": 31.52,
+      "total_time": 1.79,
+      "total_cost": 114.62,
+      "carbon_emission": 4.73,
+      "num_deliveries": 4,
+      "total_demand": 200.0,
+      "capacity_utilization": 100.0,
+      "route_efficiency": 9.59,
+      "avg_distance_per_stop": 7.88,
+      "route": [
+        "point_a",
+        "point_d",
+        "point_c",
+        "point_b"
+      ],
+      "execution_time": 0.031
+    }
+  },
+  "summary": {
+    "best_distance": "多目标优化",
+    "best_time": "最近邻算法",
+    "best_cost": "多目标优化",
+    "best_emission": "多目标优化"
+  }
+}

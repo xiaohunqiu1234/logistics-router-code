@@ -1,0 +1,6 @@
+,warehouse,point_a,point_b,point_c,point_d
+warehouse,0,5.2,7.5,9.8,12.3
+point_a,5.2,0,6.1,4.1,8.9
+point_b,7.5,6.1,0,9.3,3.8
+point_c,9.8,4.1,9.3,0,5.3
+point_d,12.3,8.9,3.8,5.3,0

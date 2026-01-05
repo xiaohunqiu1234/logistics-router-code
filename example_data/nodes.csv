@@ -1,0 +1,7 @@
+id,latitude,longitude,type
+warehouse,23.1291,113.2644,warehouse
+point_a,23.135,113.27,delivery
+point_b,23.12,113.25,delivery
+point_c,23.14,113.28,delivery
+point_d,23.115,113.245,delivery
+transit_1,23.125,113.26,transit

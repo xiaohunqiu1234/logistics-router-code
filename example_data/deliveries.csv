@@ -1,0 +1,5 @@
+id,demand,service_time,priority,time_window_start,time_window_end
+point_a,50,15,1,2024/1/1 9:00,2024/1/1 12:00
+point_b,30,10,2,2024/1/1 10:00,2024/1/1 14:00
+point_c,45,12,1,2024/1/1 8:30,2024/1/1 11:30
+point_d,25,8,3,2024/1/1 13:00,2024/1/1 17:00

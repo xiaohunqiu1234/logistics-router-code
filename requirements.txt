@@ -1,0 +1,59 @@
+# 物流路径规划系统依赖包
+# Logistics Router Interactive - Python Dependencies
+
+# ==================== 核心科学计算库 ====================
+# Core Scientific Computing
+numpy>=1.24.0          # 数组操作、数值计算
+scipy>=1.10.0          # 科学计算、优化算法（differential_evolution）
+
+# ==================== 数据可视化 ====================
+# Data Visualization
+matplotlib>=3.7.0      # 图表绘制、动画生成（FuncAnimation, PillowWriter）
+
+# ==================== 网络图分析 ====================
+# Network Graph Analysis
+networkx>=3.0          # 图论算法、网络拓扑分析
+
+# ==================== 可选依赖 ====================
+# Optional Dependencies
+
+# Excel文件支持（用于读取 .xlsx 格式的CSV文件）
+# Excel file support (for reading .xlsx format files)
+# openpyxl>=3.1.0
+# pandas>=2.0.0
+
+# 动画优化（提升GIF生成速度）
+# Animation optimization (for faster GIF generation)
+# pillow>=10.0.0
+
+# ==================== Python标准库（无需安装） ====================
+# Python Standard Library (No installation required)
+# - heapq: 优先队列（Dijkstra算法）
+# - dataclasses: 数据类装饰器
+# - datetime: 时间处理
+# - typing: 类型注解
+# - random: 随机数生成
+# - math: 数学函数
+# - itertools: 迭代工具
+# - csv: CSV文件读写
+# - json: JSON文件处理
+# - os: 文件系统操作
+# - time: 性能计时
+
+# ==================== 安装说明 ====================
+# Installation Instructions
+#
+# 1. 基础安装（推荐）：
+#    pip install -r requirements.txt
+#
+# 2. 包含可选依赖的完整安装：
+#    pip install numpy scipy matplotlib networkx openpyxl pandas pillow
+#
+# 3. 在虚拟环境中安装（推荐）：
+#    python -m venv venv
+#    source venv/bin/activate  # Linux/Mac
+#    venv\Scripts\activate     # Windows
+#    pip install -r requirements.txt
+#
+# 4. 验证安装：
+#    python -c "import numpy, scipy, matplotlib, networkx; print('所有依赖安装成功！')"

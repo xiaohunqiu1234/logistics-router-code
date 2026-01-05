@@ -1,0 +1,10 @@
+from_node,to_node,distance,min_time,max_time
+warehouse,point_a,5.2,8,12
+warehouse,point_b,7.5,12,18
+warehouse,transit_1,3.8,6,9
+transit_1,point_c,4.5,7,11
+transit_1,point_d,6.2,10,15
+point_a,point_c,4.1,6,10
+point_b,point_d,3.8,5,8
+point_a,point_b,6.1,9,14
+point_c,point_d,5.3,8,12
