@@ -55,8 +55,8 @@
 ```bash
 # 1. 克隆项目/下载项目
 # / 克隆项目
-git clone https://github.com/your-repo/logistics-router.git
-cd logistics-router
+git https://github.com/xiaohunqiu1234/logistics-router-code
+cd logistics-router-code
 # 下载项目,并解压
 
 # 2. 创建虚拟环境（推荐）
